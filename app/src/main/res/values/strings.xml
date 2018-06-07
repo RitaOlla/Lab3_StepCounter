@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">sens</string>
+    <string name="erased">Erased</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+
+</resources>
